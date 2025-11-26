@@ -11,7 +11,7 @@ sites:
 
 status-website:
   theme: light
-  cname: spreadsheets600.is-a.dev
+  baseUrl: /Uptime-Monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   themeUrl: https://spreadsheets600.is-a.dev/Uptime-Monitor/theme.css
   name: Upptime Monitor
@@ -20,3 +20,5 @@ status-website:
   navbar:
     - title: GitHub
       href: https://github.com/spreadsheets600
+  i18n:
+    footer: SpreadSheets600 // Powered By [Upptime](https://upptime.js.org)
