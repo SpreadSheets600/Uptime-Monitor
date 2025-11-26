@@ -4,6 +4,8 @@ repo: Uptime-Monitor
 sites:
   - name: Cooked Roasted Life Backend
     url: https://cooked-roasted-life.onrender.com
+  - name: Steam Wrapped
+    url: https://steam-wrapped.onrender.com
   - name: Portfolio ( Personal Website )
     url: https://spreadsheets600.is-a.dev/
   - name: PoraHobe website
