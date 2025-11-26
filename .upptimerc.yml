@@ -5,18 +5,19 @@ sites:
   - name: Cooked Roasted Life Backend
     url: https://cooked-roasted-life.onrender.com
   - name: Portfolio ( Personal Website )
-    url: https://spreadsheet600.github.io
+    url: https://spreadsheets600.is-a.dev/
   - name: PoraHobe website
-    url: https://dono-03.danbot.host:2521
+    url: http://dono-03.danbot.host:2521
 
 status-website:
   baseUrl: /upptime-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime Monitor
-  introTitle: My Website And Backends Upptime Status Page
-  introMessage: Powered by [Upptime](https://upptime.js.org)
+  introTitle: My Services And Website Uptime Monitor
+  introMessage: Powered By [Upptime](https://upptime.js.org)
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/spreadsheets600
+
+workflowSchedule:
+  uptime: "*/15 * * * *"
