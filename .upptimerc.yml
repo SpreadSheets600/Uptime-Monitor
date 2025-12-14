@@ -3,15 +3,19 @@ repo: Uptime-Monitor
 
 sites:
   - name: Cooked Roasted Life Backend
-    url: https://cooked-roasted-life.onrender.com
+    url: http://dono-01.danbot.host:9852/
   - name: Steam Wrapped
-    url: https://steam-wrapped.onrender.com
+    url: http://dono-01.danbot.host:9174/
   - name: Portfolio ( Personal Website )
     url: https://spreadsheets600.is-a.dev/
   - name: PoraHobe website
     url: http://dono-03.danbot.host:2521
   - name: Frontpage Website
-    url: https://frontpage-generator-e5n7.onrender.com/frontpages
+    url: http://dono-01.danbot.host:7850/frontpages
+  - name: Projects Monitor
+    url: http://dono-01.danbot.host:2110
+  - name: Discord Bot Monitor
+    url: http://dono-03.danbot.host:8019
 status-website:
   theme: light
   baseUrl: /Uptime-Monitor
