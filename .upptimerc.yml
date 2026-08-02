@@ -12,6 +12,8 @@ sites:
     url: https://frontpage-generator.pages.dev/
   - name: Frontpage Generator API
     url: https://frontpage-api.spreadsheets600.workers.dev/api/stats
+  - name: Unified Media API ( Movie & Shows API )
+    url: https://unified-media-api.vercel.app/
 status-website:
   theme: light
   baseUrl: /Uptime-Monitor
