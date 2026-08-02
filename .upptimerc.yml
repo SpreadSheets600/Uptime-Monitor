@@ -2,20 +2,16 @@ owner: SpreadSheets600
 repo: Uptime-Monitor
 
 sites:
-  - name: Cooked Roasted Life Backend
-    url: http://dono-01.danbot.host:9852/
-  - name: Steam Wrapped
-    url: http://dono-01.danbot.host:9174/
   - name: Portfolio ( Personal Website )
-    url: https://spreadsheets600.is-a.dev/
-  - name: PoraHobe website
-    url: http://dono-03.danbot.host:2521
-  - name: Frontpage Website
-    url: http://dono-01.danbot.host:7850/frontpages
-  - name: Projects Monitor
-    url: http://dono-01.danbot.host:2110
-  - name: Discord Bot Monitor
-    url: http://dono-03.danbot.host:8019
+    url: https://spreadsheets600.buzz/
+  - name: Portfolio Blogs ( Blogs Website )
+    url: https://blogs.spreadsheets600.buzz/
+  - name: Pora Hobe
+    url: https://porahobe.spreadsheets600.buzz/
+  - name: Frontpage Generator
+    url: https://frontpage-generator.pages.dev/
+  - name: Frontpage Generator API
+    url: https://frontpage-api.spreadsheets600.workers.dev/
 status-website:
   theme: light
   baseUrl: /Uptime-Monitor
