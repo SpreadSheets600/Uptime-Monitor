@@ -11,7 +11,7 @@ sites:
   - name: Frontpage Generator
     url: https://frontpage-generator.pages.dev/
   - name: Frontpage Generator API
-    url: https://frontpage-api.spreadsheets600.workers.dev/
+    url: https://frontpage-api.spreadsheets600.workers.dev/api/stats
 status-website:
   theme: light
   baseUrl: /Uptime-Monitor
